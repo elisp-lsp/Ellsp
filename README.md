@@ -66,7 +66,7 @@ Add these lines to your global `Eask`-file (usually located under `~/`):
 
 Then install the language server:
 
-```console
+```sh
 # Install ellsp package.
 eask -g install ellsp
 
