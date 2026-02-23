@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elisp-lsp/ellsp.git"
+    "url": "git+https://github.com/elisp-lsp/Ellsp.git"
   },
   "keywords": [
     "ellsp",
@@ -29,9 +29,9 @@
   "author": "Jen-Chieh Shen",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/elisp-lsp/ellsp/issues"
+    "url": "https://github.com/elisp-lsp/Ellsp/issues"
   },
-  "homepage": "https://github.com/elisp-lsp/ellsp#readme",
+  "homepage": "https://github.com/elisp-lsp/Ellsp#readme",
   "dependencies": {
     "which": "^6.0.1"
   },

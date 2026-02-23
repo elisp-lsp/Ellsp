@@ -44,7 +44,7 @@ else
   esac
 fi
 
-ellsp_uri="https://github.com/elisp-lsp/ellsp/releases/latest/download/ellsp_${target}.${ext}"
+ellsp_uri="https://github.com/elisp-lsp/Ellsp/releases/latest/download/ellsp_${target}.${ext}"
 
 SDIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 

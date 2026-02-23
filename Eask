@@ -4,7 +4,7 @@
          "0.2.0"
          "Elisp Language Server")
 
-(website-url "https://github.com/elisp-lsp/ellsp")
+(website-url "https://github.com/elisp-lsp/Ellsp")
 (keywords "convenience" "lsp")
 
 (package-file "ellsp.el")

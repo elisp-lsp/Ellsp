@@ -29,7 +29,7 @@ if "%PROCESSOR_ARCHITECTURE%" == "AMD64" (
     exit /b 1
 )
 
-set URL=https://github.com/elisp-lsp/ellsp/releases/latest/download/ellsp_win-%ARCH%.zip
+set URL=https://github.com/elisp-lsp/Ellsp/releases/latest/download/ellsp_win-%ARCH%.zip
 set ELLSP_BIN_DIR=%~dp0
 set ZIP=%ELLSP_BIN_DIR%\ellsp.zip
 

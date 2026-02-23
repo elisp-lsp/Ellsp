@@ -4,7 +4,7 @@
 
 ;; Author: Shen, Jen-Chieh <jcs090218@gmail.com>
 ;; Maintainer: Shen, Jen-Chieh <jcs090218@gmail.com>
-;; URL: https://github.com/elisp-lsp/ellsp
+;; URL: https://github.com/elisp-lsp/Ellsp
 ;; Version: 0.2.0
 ;; Package-Requires: ((emacs "28.1") (lsp-mode "6.0.1") (log4e "0.1.0") (dash "2.14.1") (s "1.12.0") (company "0.8.12") (msgu "0.1.0"))
 ;; Keywords: convenience lsp
@@ -53,7 +53,7 @@
   "Elisp Language Server."
   :prefix "ellsp-"
   :group 'tool
-  :link '(url-link :tag "Repository" "https://github.com/elisp-lsp/ellsp"))
+  :link '(url-link :tag "Repository" "https://github.com/elisp-lsp/Ellsp"))
 
 (defcustom ellsp-eol (pcase system-type
                        ;; XXX: Don't know why `\r\n' does not work with VSCode

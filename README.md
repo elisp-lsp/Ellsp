@@ -1,12 +1,12 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Release](https://img.shields.io/github/release/elisp-lsp/ellsp.svg?logo=github)](https://github.com/elisp-lsp/ellsp/releases/latest)
+[![Release](https://img.shields.io/github/release/elisp-lsp/Ellsp.svg?logo=github)](https://github.com/elisp-lsp/Ellsp/releases/latest)
 [![JCS-ELPA](https://raw.githubusercontent.com/jcs-emacs/badges/master/elpa/v/ellsp.svg)](https://jcs-emacs.github.io/jcs-elpa/#/ellsp)
 
 # Ellsp
 > Elisp Language Server
 
-[![CI Elisp](https://github.com/elisp-lsp/ellsp/actions/workflows/test-elisp.yml/badge.svg)](https://github.com/elisp-lsp/ellsp/actions/workflows/test-elisp.yml)
-[![Build Proxy](https://github.com/elisp-lsp/ellsp/actions/workflows/build-proxy.yml/badge.svg)](https://github.com/elisp-lsp/ellsp/actions/workflows/build-proxy.yml)
+[![CI Elisp](https://github.com/elisp-lsp/Ellsp/actions/workflows/test-elisp.yml/badge.svg)](https://github.com/elisp-lsp/Ellsp/actions/workflows/test-elisp.yml)
+[![Build Proxy](https://github.com/elisp-lsp/Ellsp/actions/workflows/build-proxy.yml/badge.svg)](https://github.com/elisp-lsp/Ellsp/actions/workflows/build-proxy.yml)
 
 This software is intended for use with editors other than Emacs.
 If you're already an Emacs user, we recommend using Emacs directly,
