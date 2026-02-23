@@ -17,6 +17,7 @@ Here is the list of currently supported editors:
 
 - [Emacs][] via [lsp-ellsp](https://github.com/elisp-lsp/lsp-ellsp)
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=jcs090218.Ellsp)
+- [Zed](https://zed.dev/extensions/ellsp)
 
 ## ✒️ Rationale
 
