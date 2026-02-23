@@ -55,27 +55,10 @@ Before installation, make sure you have all the following software installed!
 
 ## 💾 Installation
 
-### 🔍 Option 1 — Global Installation (Recommended)
-
-Add these lines to your global `Eask`-file (usually located under `~/`):
-
-```elisp
-(source 'gnu)
-(source 'melpa)
-(source 'jcs-elpa)
-```
-
-Then install the language server:
-
-```sh
-# Install ellsp package.
-eask -g install ellsp
-
-# Install the proxy server.
-eask -g exec install-ellsp
-```
-
-### 🔍 Option 2 — Project-Local Installation
+> [!IMPORTANT]
+>
+> Ellsp can only be used with projects that utilize Eask as their package manager.
+> Ensure your project is properly set up with Eask before using Ellsp.
 
 Add these lines to your `Eask`-file:
 
@@ -98,18 +81,10 @@ eask install-deps --dev
 eask exec install-ellsp
 ```
 
-### ✅ Verify Installation
-
 To test to see if the server installed successfully, execute the following command:
 
-```console
+```sh
 eask exec ellsp
-```
-
-Add the option `-g` if your have installed the server globally:
-
-```console
-eask -g exec ellsp
 ```
 
 If you see the following screen (no error), you successfully installed the language server! 🎉🥳
