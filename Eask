@@ -20,7 +20,7 @@
 (source-priority 'gnu)
 (source-priority 'melpa)
 
-(depends-on "emacs" "28.1")
+(depends-on "emacs" "29.1")
 (depends-on "lsp-mode")
 (depends-on "company")
 (depends-on "log4e")
